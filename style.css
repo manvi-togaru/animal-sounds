@@ -1,0 +1,30 @@
+body{
+font-family: cursive;
+color: lightgoldenrodyellow;
+background-color: powderblue;
+}
+.header_div{
+    background-color: powderblue;
+}
+.header_div p{
+    letter-spacing: 2px;
+    color: lavender;
+    font-weight: bold;
+}
+.maindiv button{
+    margin-top: 30px;
+    width: 160px;
+    font-weight: bolder;
+    letter-spacing:3px ;
+}
+.copyrightfooter{
+    position:fixed;
+    color: rgb(0, 0, 0);
+    bottom:0;
+    width: 100%;
+    font-size: 18px;
+    background-color: rgb(238, 243, 248);
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px black;
+}
